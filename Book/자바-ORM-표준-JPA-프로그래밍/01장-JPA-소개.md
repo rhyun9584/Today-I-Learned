@@ -81,7 +81,9 @@ JPA의 `find()` 메소드를 활용하는 경우, 기본키 값이 같은 객체
 ## 1.3 JPA란 무엇인가?
 위에서 설명한 *패러다임 불일치 문제*를 개발자 대신 해결해주는 개념이 **ORM**.
 
-(이미지 추가)
+![image](https://github.com/rhyun9584/Today-I-Learned/assets/45452033/a6e538c7-8cd5-45de-b95c-9b2e40a5934f)
+![image](https://github.com/rhyun9584/Today-I-Learned/assets/45452033/40598b4f-2614-40b2-bf95-c2f0653d8fd3)
+
 
 ### 1.3.1 JPA 소개
 JPA란 자바 ORM 기술에 대한 API 표준 명세이다.
