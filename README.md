@@ -9,4 +9,4 @@
 ## Book
 1차로 책을 읽으며 노션에 공부한 내용을 러프하게 정리하고, 2차로 TIL 레포에 옮기면서 복습 겸 기록 내용 다듬기
 
-* [자바 ORM 표준 JPA 프로그래밍](https://github.com/rhyun9584/Today-I-Learned/tree/main/Book/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) (읽는 중 / 정리 중)
+* [자바 ORM 표준 JPA 프로그래밍](https://github.com/rhyun9584/Today-I-Learned/tree/main/Book/%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) (읽기 완료 / 정리 완료)
